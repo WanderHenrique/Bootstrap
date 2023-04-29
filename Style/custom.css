@@ -13,11 +13,12 @@ textarea {
     width: 32%;
     float: left;
     margin: 5px;
+
 }
 
 body {
     font-family: Arial, sans-serif;
-    color: rgb(110, 110, 110);
+    color: rgb(0, 0, 0);
     line-height: 1.5;
 }
 
@@ -26,7 +27,7 @@ h1, h2, h3 {
     margin-bottom: 1rem;
 }
 h1,h2 {
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 p {
